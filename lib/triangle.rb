@@ -9,6 +9,4 @@ class Triangle
   end
   
   
-    
-  # write code here
 end
