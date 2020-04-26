@@ -4,7 +4,7 @@ class Triangle
   
   def initialize (a, b, c)
     @a = a.to_i
-    @b = b.to_1
+    @b = b.to_i
     @c = c.to_i
   end
   
