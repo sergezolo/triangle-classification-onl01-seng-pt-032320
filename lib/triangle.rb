@@ -3,9 +3,9 @@ class Triangle
   attr_accessor :a, :b, :c
   
   def initialize (a, b, c)
-    @a = a.to_i
-    @b = b.to_i
-    @c = c.to_i
+    @a = a.to_f
+    @b = b.to_f
+    @c = c.to_f
   end
   
   def kind
