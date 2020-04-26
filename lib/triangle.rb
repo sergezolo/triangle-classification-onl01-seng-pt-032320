@@ -12,5 +12,6 @@ class Triangle
     if a == b || b == c || c == a
       "isosceles"
     elsif a == b && b == c && c == a
-      ""
+      "equilateral"
+    else
 end
