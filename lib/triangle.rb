@@ -8,5 +8,7 @@ class Triangle
     @c = c
   end
   
-  
+  def kind
+    if a == b || b == c || c == a
+      ""
 end
